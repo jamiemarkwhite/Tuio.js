@@ -1,5 +1,7 @@
 # Tuio.js
 
+Chris: Updated for Express 3.x compatibility!
+
 Tuio.js is a JavaScript implementation of the [TUIO library](http://www.tuio.org) for multitouch and tangible interaction in the web browser. It brings a 1:1 port of the original [TUIO Java library](http://www.tuio.org/?java). 
 
 ### How it works
